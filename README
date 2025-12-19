@@ -10,11 +10,11 @@ This website was created to be my digital business card. Here, you will find inf
 
 ## 🛠️ Technologies Used
 
-In this project, I used the following technologies:
+In this project, I have used the following technologies so far:
 
 * **HTML5** - Content structure.
 * **CSS3** - Styling and responsive design (using Flexbox/Grid).
-* **SO FAR** (ou **UP TO DATE**)
+* **Java** - Backend logic and core programming.
 
 ## 🚀 Features
 
@@ -29,3 +29,12 @@ In this project, I used the following technologies:
 To run it locally:
 1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
 2. Open the `index.html` file in your browser.
+
+## 📈 Next Steps
+
+- [ ] Implement Dark Mode.
+- [ ] Add a "About Me" section with my career goals.
+- [ ] Integrate more Java-based projects.
+
+---
+*Last updated: December 2025*
