@@ -27,5 +27,5 @@ In this project, I used the following technologies:
 ## 📂 How to view the project
 
 To run it locally:
-1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone this repository: https://duarkyzz.github.io/Portfolio-EN/
 2. Open the `index.html` file in your browser.
