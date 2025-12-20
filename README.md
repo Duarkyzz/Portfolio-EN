@@ -4,7 +4,7 @@ Welcome to my portfolio website repository! This project was developed to centra
 
 ## 📌 About the Project
 
-This website was created to be my digital business card. Here, you will find information about my professional experiences, academic background, and the projects I am currently developing.
+This website was created to be my digital business card. Here, you will find information about my professional experience, academic background, and the projects I am currently developing.
 
 > **⚠️ Work in Progress:** This portfolio is frequently updated. I am constantly adding new experiences, refining the code, and including new projects as I build them.
 
@@ -14,31 +14,18 @@ In this project, I used the following technologies:
 
 * **HTML5** - Content structure.
 * **CSS3** - Styling and responsive design (using Flexbox/Grid).
-* **JavaScript** - Interactive features (where applicable).
-* **Java** - Core programming logic.
+* **SO FAR** (ou **UP TO DATE**)
 
 ## 🚀 Features
 
 - [x] Personal introduction and job title.
 - [x] Technical skills list.
-- [ ] Detailed projects section (currently being updated).
+- [ ] Detailed projects section (updating).
 - [ ] Professional experience history.
-- [x] Direct links to social media and contact info.
+- [x] Direct links to social media and contact.
 
-## 📂 How to View the Project
-
-You can check out the live version here:  
-👉 [**Live Portfolio**](https://duarkyzz.github.io/Portfolio/)
+## 📂 How to view the project
 
 To run it locally:
-1. Clone this repository: `git clone https://github.com/duarkyzz/Portfolio.git`
+1. Clone this repository: `git clone https://github.com/your-username/your-repository.git`
 2. Open the `index.html` file in your browser.
-
----
-
-## 📧 Contact
-
-Feel free to reach out to me for ideas, networking, or opportunities:
-
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Email:** your-email@example.com
