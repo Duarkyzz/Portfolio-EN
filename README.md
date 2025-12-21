@@ -27,4 +27,4 @@ In this project, I used the following technologies:
 ## 📂 How to view the project
 
 Se o site já estiver publicado (ex: GitHub Pages ou Vercel), você pode acessá-lo aqui:
-👉 [**Link para o meu Portfólio**](https://duarkyzz.github.io/Portfolio-EN/)
+👉 [**Link for my portfolio**](https://duarkyzz.github.io/Portfolio-EN/)
